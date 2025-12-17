@@ -12,7 +12,7 @@ while(i<=131)
 console.log(oddSum);
 
 
-// sum of odd numbers
+// sum of even numbers
 let i = 81;
 let evenSum = 0;
 while(i<=131)
